@@ -1,11 +1,11 @@
 {
-  "name": "@jefferal/xml2js-wa",
+  "name": "xml2js-wa",
   "description": "Simple XML to JavaScript object converter.",
   "keywords": [
     "xml",
     "json"
   ],
-  "homepage": "https://github.com/Leonidas-from-XIV/node-xml2js",
+  "homepage": "https://github.com/jefferal/node-xml2js-wa",
   "version": "0.4.4",
   "author": "Marek Kubica <marek@xivilization.net> (http://xivilization.net)",
   "contributors": [
@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Leonidas-from-XIV/node-xml2js.git"
+    "url": "git+https://github.com/jefferal/node-xml2js-wa.git"
   },
   "dependencies": {
     "sax": "0.6.x",
@@ -60,11 +60,11 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://raw.github.com/Leonidas-from-XIV/node-xml2js/master/LICENSE"
+      "url": "https://raw.github.com/jefferal/node-xml2js-wa/master/LICENSE"
     }
   ],
   "bugs": {
-    "url": "https://github.com/Leonidas-from-XIV/node-xml2js/issues"
+    "url": "https://github.com/jefferal/node-xml2js-wa/issues"
   },
   "_shasum": "3111010003008ae19240eba17497b57c729c555d",
   "_from": "xml2js@0.4.4",
