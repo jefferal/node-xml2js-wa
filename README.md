@@ -25,5 +25,5 @@ install xml2js-wa` which will download xml2js-wa and all dependencies.
 
 This repository has been cloned from the original repository, based on version 0.0.4:
 
-This workaround has been implemented by fixing a version of the dependency
-xmlbuilder to make it compatible with old versions of node.
+This workaround has been implemented to fix a version of the dependency
+`xmlbuilder` to make it compatible with old versions of node.
